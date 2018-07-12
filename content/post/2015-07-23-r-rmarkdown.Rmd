@@ -1,10 +1,9 @@
 ---
 title: "Hello R Markdown"
 author: "Frida Gomam"
-date: 2018-07-11
+date: 2015-07-23T21:13:14-05:00
 categories: ["R"]
 tags: ["R Markdown", "plot", "regression"]
-summary: "测试下中文"
 ---
 
 ```{r setup, include=FALSE}
@@ -12,10 +11,6 @@ knitr::opts_chunk$set(collapse = TRUE)
 ```
 
 # R Markdown
-
-这是一篇关于hugo blog开始正常显示的测试文。`<!--more-->`对文章进行摘要不起作用，`summary`选项也不行。`Rmd`文档运行正常。
-
-<!--more-->
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
